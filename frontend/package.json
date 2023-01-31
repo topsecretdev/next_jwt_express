@@ -1,0 +1,28 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@hookform/resolvers": "^2.6.1",
+    "axios": "^1.2.6",
+    "bcryptjs": "^2.4.3",
+    "express-jwt": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "prop-types": "^15.7.2",
+    "react-hook-form": "^7.12.1",
+    "rxjs": "^7.3.0",
+    "yup": "^0.32.9"
+  }
+}
